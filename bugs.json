@@ -1,29 +1,3 @@
 [
-    {
-        "name": "Mr orosz",
-        "program": "XRAYD",
-        "priority": "High",
-        "title": "Lock in nigga",
-        "description": "Lohpider LohpiderLohpiderLohpiderLohpiderLohpiderLohpider",
-        "timestamp": "2025-03-30 20:01:57",
-        "status": "Open"
-    },
-    {
-        "name": "Mate",
-        "program": "Nincs felsorolva",
-        "priority": "Medium",
-        "title": "Sex",
-        "description": "sex sexsexsexsexsex",
-        "timestamp": "2025-03-30 20:01:15",
-        "status": "Resolved"
-    },
-    {
-        "name": "Taki",
-        "program": "XRAYD",
-        "priority": "Low",
-        "title": "Nem megz",
-        "description": "orosz buzi orosz buziorosz buziorosz buziorosz buziorosz buzi",
-        "timestamp": "2025-03-30 20:00:43",
-        "status": "Resolved"
-    }
+  #Here goes the reported bugs...
 ]
